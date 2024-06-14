@@ -1,0 +1,26 @@
+{
+  "name": "albumeasy-syntax-highlighting",
+  "displayName": "AlbumEasy Stamps Syntax Highlighting",
+  "description": "Syntax Highlighting for AlbumEasy Stamps Files",
+  "icon": "./icon.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "albumeasy",
+      "aliases": ["AlbumEasy", "albumeasy"],
+      "extensions": [".stamps"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "albumeasy",
+      "scopeName": "source.albumeasy",
+      "path": "./syntaxes/albumeasy.tmLanguage.json"
+    }]
+  }
+}
