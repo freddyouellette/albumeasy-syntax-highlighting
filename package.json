@@ -4,6 +4,10 @@
   "description": "Syntax Highlighting for AlbumEasy Stamps Files",
   "icon": "./icon.png",
   "version": "0.0.1",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/freddyouellette/albumeasy-syntax-highlighting"
+  },
   "engines": {
     "vscode": "^1.90.0"
   },
