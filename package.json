@@ -2,6 +2,7 @@
   "name": "albumeasy-syntax-highlighting",
   "displayName": "AlbumEasy Stamps Syntax Highlighting",
   "description": "Syntax Highlighting for AlbumEasy Stamps Files",
+  "publisher": "freddy-ouellette",
   "icon": "./icon.png",
   "version": "0.0.1",
   "repository": {
