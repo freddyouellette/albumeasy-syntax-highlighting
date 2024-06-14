@@ -4,10 +4,10 @@
   "description": "Syntax Highlighting for AlbumEasy Stamps Files",
   "publisher": "freddy-ouellette",
   "icon": "./icon.png",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": {
-	"type": "git",
-	"url": "https://github.com/freddyouellette/albumeasy-syntax-highlighting"
+    "type": "git",
+    "url": "https://github.com/freddyouellette/albumeasy-syntax-highlighting"
   },
   "engines": {
     "vscode": "^1.89.0"
@@ -16,16 +16,25 @@
     "Programming Languages"
   ],
   "contributes": {
-    "languages": [{
-      "id": "albumeasy",
-      "aliases": ["AlbumEasy", "albumeasy"],
-      "extensions": [".stamps"],
-      "configuration": "./language-configuration.json"
-    }],
-    "grammars": [{
-      "language": "albumeasy",
-      "scopeName": "source.albumeasy",
-      "path": "./syntaxes/albumeasy.tmLanguage.json"
-    }]
+    "languages": [
+      {
+        "id": "albumeasy",
+        "aliases": [
+          "AlbumEasy",
+          "albumeasy"
+        ],
+        "extensions": [
+          ".stamps"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "albumeasy",
+        "scopeName": "source.albumeasy",
+        "path": "./syntaxes/albumeasy.tmLanguage.json"
+      }
+    ]
   }
 }
