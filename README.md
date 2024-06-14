@@ -1,6 +1,6 @@
 # AlbumEasy Stamp Collection Syntax Highlighting
 
-[![Created by Freddy Ouellette](https://img.shields.io/badge/Created%20by%20Freddy%20Ouellette-gray)](https://freddyouellette.com) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/freddyouellette/albumeasy-syntax-highlighting)
+[![Created by Freddy Ouellette](https://img.shields.io/badge/Created%20by%20Freddy%20Ouellette-gray)](https://freddyouellette.com) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/freddyouellette/albumeasy-syntax-highlighting) [![VS Code Extension Marketplace](https://img.shields.io/badge/VS%20Code%20Extension%20Marketplace-007ACC?logo=visualstudiocode&logoColor=black)](https://marketplace.visualstudio.com/items?itemName=freddy-ouellette.albumeasy-syntax-highlighting)
 
 ![AlbumEasy](icon-mini.png)
 
