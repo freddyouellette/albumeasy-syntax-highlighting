@@ -10,7 +10,7 @@
 	"url": "https://github.com/freddyouellette/albumeasy-syntax-highlighting"
   },
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.89.0"
   },
   "categories": [
     "Programming Languages"
