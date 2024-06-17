@@ -29,6 +29,10 @@
 					"name": "constant.language.albumeasy"
 				},
 				{
+					"match": "\\b(SOLID|DOTTED|DOT_DASH|DASHED|BLANK|CORNER|SIDES)\\b",
+					"name": "constant.language.albumeasy"
+				},
+				{
 					"match": "\\bALBUM_DEFINE_FONT\\s*\\(\\s*(\\w+)\\s*\"[^\"]+\"\\)",
 					"captures": {
 						"1": {
